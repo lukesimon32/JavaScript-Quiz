@@ -61,8 +61,8 @@
   
   #timer{
       font-family: sans-serif;
-      background-color: #ff0080;
-      color: #eeeeee;
+      background-color: rgb(123, 230, 206);
+      color: #ff0000;
       font-size: x-large;
       text-shadow: .5px .5px black;
       text-align: center;
